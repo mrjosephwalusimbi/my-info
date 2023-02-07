@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @walusimbijoseph
+- 👋 Hi, I’m @mrjosephwalusimbi
 - 👀 I’m interested in Software engineering
 - 🌱 I have mastery in html, css, bootstrap, javascript, python, flutter
 - 💞️ I’m looking to collaborate on software development projects
